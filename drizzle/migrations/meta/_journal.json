@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "postgresql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795506924076,
+      "tag": "0000_tailoring_marketplace",
+      "breakpoints": true
+    }
+  ]
 }
